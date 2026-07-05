@@ -1,0 +1,34 @@
+Asma ANika
+123 Main Street, Apt 4B, New York, NY 10001
+Phone: (555) 123-4567 | Email: john.doe@email.com | LinkedIn: ://linkedin.com
+
+PROFESSIONAL SUMMARY
+Results-driven Software Engineer with over 5 years of experience designing scalable applications and leading development teams. Proven track record of improving system efficiency by 40% and delivering projects ahead of schedule. Passionate about cloud computing and modern web technologies.
+
+TECHNICAL SKILLS
+Languages: Java, Python, JavaScript, TypeScript, SQL
+Frameworks & Libraries: React, Node.js, Django, Spring Boot
+Tools & Platforms: Docker, AWS, Git, PostgreSQL, Kubernetes
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechSolutions Inc. | June 2023 - Present
+- Spearheaded the development of a microservices-based architecture, reducing system latency by 40%.
+- Led a team of 6 junior developers, conducting code reviews and providing mentorship.
+- Collaborated with cross-functional teams to gather requirements and deploy new features, resulting in a 20% increase in user retention.
+
+Software Engineer | WebTech Innovations | August 2021 - May 2023
+- Developed and maintained responsive front-end interfaces using React and TypeScript.
+- Optimized backend REST APIs, improving data retrieval speeds for 50,000+ active users.
+- Participated in Agile/Scrum ceremonies, ensuring timely delivery of sprint goals.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | May 2021
+GPA: 3.8/4.0
+Honors: Cum Laude, Dean's List (2018-2021)
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Amazon Web Services (2025)
+Certified Kubernetes Administrator (2024)

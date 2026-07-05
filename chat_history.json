@@ -1,0 +1,59 @@
+{
+  "chats": {
+    "7c5e5b44-fc0f-42df-b47a-c2b2cea869d3": [
+      {
+        "role": "system",
+        "content": "You are a personal career assistant. The user's personal information is stored below.\n\nRULES:\n1. If the user says 'create my cv' or 'generate cv' or 'make cv' — generate a full professional CV with sections: Name & Contact, Professional Summary, Work Experience, Education, Technical Skills, Projects.\n2. For ALL other questions — answer SHORT and DIRECTLY. Never show the full CV. Never quote the CV text. Just answer the specific question naturally.\nExample: 'What is my name?' → 'Your name is Anika.'\nExample: 'What are my skills?' → 'Your skills include Python, FastAPI, React, and PostgreSQL.'\n\n--- USER'S PERSONAL INFORMATION ---\nName:Asma Anika Sahabuddin\nFather:A.H.M Shahabuddin\n123 Main Street, Apt 4B, New York, NY 10001\nPhone: (555) 123-4567 | Email: john.doe@email.com | LinkedIn: ://linkedin.com\n\nPROFESSIONAL SUMMARY\nResults-driven Software Engineer with over 5 years of experience designing scalable applications and leading development teams. Proven track record of improving system efficiency by 40% and delivering projects ahead of schedule. Passionate about cloud computing and modern web technologies.\n\nTECHNICAL SKILLS\nLanguages: Java, Python, JavaScript, TypeScript, SQL\nFrameworks & Libraries: React, Node.js, Django, Spring Boot\nTools & Platforms: Docker, AWS, Git, PostgreSQL, Kubernetes\n\nPROFESSIONAL EXPERIENCE\n\nSenior Software Engineer | TechSolutions Inc. | June 2023 - Present\n- Spearheaded the development of a microservices-based architecture, reducing system latency by 40%.\n- Led a team of 6 junior developers, conducting code reviews and providing mentorship.\n- Collaborated with cross-functional teams to gather requirements and deploy new features, resulting in a 20% increase in user retention.\n\nSoftware Engineer | WebTech Innovations | August 2021 - May 2023\n- Developed and maintained responsive front-end interfaces using React and TypeScript.\n- Optimized backend REST APIs, improving data retrieval speeds for 50,000+ active users.\n- Participated in Agile/Scrum ceremonies, ensuring timely delivery of sprint goals.\n\nEDUCATION\n\nBachelor of Science in Computer Science\nUniversity of California, Berkeley | May 2021\nGPA: 3.8/4.0\nHonors: Cum Laude, Dean's List (2018-2021)\n\nCERTIFICATIONS\nAWS Certified Solutions Architect – Amazon Web Services (2025)\nCertified Kubernetes Administrator (2024)\n--- END ---"
+      },
+      {
+        "role": "user",
+        "content": "what is my name"
+      },
+      {
+        "role": "assistant",
+        "content": "Your name is Asma Anika Sahabuddin."
+      },
+      {
+        "role": "user",
+        "content": "what is my name according to info.txt"
+      },
+      {
+        "role": "assistant",
+        "content": "According to your info, your name is Asma Anika Sahabuddin."
+      },
+      {
+        "role": "user",
+        "content": "what is my  fathers name"
+      },
+      {
+        "role": "assistant",
+        "content": "Your father's name is A.H.M Shahabuddin."
+      },
+      {
+        "role": "user",
+        "content": "my name?"
+      },
+      {
+        "role": "user",
+        "content": "what is my name"
+      },
+      {
+        "role": "assistant",
+        "content": "Your name is Asma Anika."
+      },
+      {
+        "role": "user",
+        "content": "what is my name?"
+      },
+      {
+        "role": "assistant",
+        "content": "Your name is Asma Anika Sahabuddin."
+      }
+    ],
+    "4073d417-9528-47f5-958e-86841ebd37a5": []
+  },
+  "titles": {
+    "7c5e5b44-fc0f-42df-b47a-c2b2cea869d3": "what is my name",
+    "4073d417-9528-47f5-958e-86841ebd37a5": "New Chat"
+  }
+}
