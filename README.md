@@ -2,7 +2,7 @@
 
 A modern AI-powered desktop chatbot that reads your personal information and generates a professional CV — built with Python, Tkinter, and Ollama.
 
-
+<img width="977" height="712" alt="image" src="https://github.com/user-attachments/assets/949255f2-453f-4931-9f11-22050ad671c9" />
 
 ---
 
